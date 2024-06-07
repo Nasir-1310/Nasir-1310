@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Md Nasir Uddin</h1>
-<h3 align="center">A Software Engineering Undergrad Student from Bangladesh</h3>
+<h1 align="center" style="animation: fadeIn 2s ease-in-out;">Hi 👋, I'm Md Nasir Uddin</h1>
+<h3 align="center" style="animation: fadeIn 2s ease-in-out;">A Software Engineering Undergrad Student from Bangladesh</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nasir-1310&label=Profile%20views&color=0e75b6&style=flat" alt="nasir-1310" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nasir-1310&label=Profile%20views&color=0e75b6&style=flat" alt="nasir-1310" />
 </p>
 
-<p align="left"> 
+<p align="left" style="animation: slideInLeft 1.5s ease-in-out;">
   <a href="https://github.com/nasir-1310?tab=followers">
     <img src="https://img.shields.io/github/followers/nasir-1310?label=Followers&style=social" alt="GitHub Badge"> 
   </a>
@@ -14,8 +14,8 @@
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left" style="animation: fadeIn 2s ease-in-out;">Connect with me:</h3>
+<p align="left" style="animation: slideInLeft 1.5s ease-in-out;">
   <a href="https://linkedin.com/in/nasir-uddin" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasir-uddin" height="30" width="40" />
   </a>
@@ -30,8 +30,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="left" style="animation: fadeIn 2s ease-in-out;">Languages and Tools:</h3>
+<p align="left" style="animation: slideInLeft 1.5s ease-in-out;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -66,3 +66,44 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasir-1310&show_icons=true&locale=en" alt="nasir-1310" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasir-1310&" alt="nasir-1310" /></p>
+
+<style>
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes slideInLeft {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideInRight {
+  0% {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+</style>
