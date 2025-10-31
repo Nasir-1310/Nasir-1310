@@ -19,7 +19,7 @@
 
 I am a passionate **Software Engineering undergraduate** at the **Institute of Information Technology, University of Dhaka**, specializing in full-stack development, artificial intelligence, and quality assurance. Currently interning at **Samsung R&D Institute Bangladesh**, I focus on building scalable applications, automating testing processes, and conducting research in software engineering.
 
-**🎓 Education:** B.Sc. in Software Engineering • University of Dhaka.
+**🎓 Education:** B.Sc. in Software Engineering • University of Dhaka
 **💼 Industry Experience:** Quality Innovation Group Intern @ Samsung R&D Institute Bangladesh  
 **🔬 Interests:** Web Development, AI & ML, Software Architecture, Quality Assurance  
 **💻 Problem Solver:** 300+ problems solved across LeetCode, Codeforces & competitive platforms  
