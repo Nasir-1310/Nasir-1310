@@ -1,7 +1,7 @@
-
+<div align='center'>** Hi 👋 I'm Nasir Uddin**</div>
 
 <div align="center">
-# Hi 👋 I'm Nasir Uddin
+
 **Full-Stack Developer | AI & ML Enthusiast | Software Engineering Researcher | Quality Assurance Specialist**
 
 *Software Engineering Undergraduate at University of Dhaka (IIT)*
