@@ -1,15 +1,13 @@
+# Hi 👋 I'm Nasir Uddin
+
 <div align="center">
 
-# MD Nasir Uddin
+**Software Engineering Undergraduate at University of Dhaka (IIT) | Building Scalable Solutions**
 
-### Software Engineer | Full-Stack Developer | AI Enthusiast
-
+[![Profile Views](https://komarev.com/ghpvc/?username=nasir-1310&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/nasir-1310)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nasir-uddin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bsse1310@iit.du.ac.bd)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nasir-1310)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0E75B6?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=nasir-1310&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/nasir-1310?label=Followers&style=social)](https://github.com/nasir-1310?tab=followers)
 
 </div>
 
@@ -17,19 +15,46 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineering undergraduate** at the **Institute of Information Technology, University of Dhaka**, with a strong foundation in full-stack development, quality assurance, and artificial intelligence. Currently interning at **Samsung R&D Institute Bangladesh**, I specialize in building scalable web applications, automating testing processes, and solving complex algorithmic problems.
+```typescript
+const nasir = {
+  education: "B.Sc. in Software Engineering @ University of Dhaka",
+  currentRole: "QA Intern @ Samsung R&D Institute Bangladesh",
+  cgpa: "3.60/4.00",
+  location: "Dhaka, Bangladesh",
+  interests: ["Web Development", "AI/ML", "Software Architecture", "Quality Assurance"],
+  currentFocus: ["Building scalable web applications", "Automated testing", "Clean code practices"],
+  problemsSolved: "300+ across LeetCode, Codeforces & competitive platforms"
+};
+```
 
-- 🎓 **Education:** B.Sc. in Software Engineering (CGPA: 3.60/4.00)
-- 💼 **Current Role:** Quality Innovation Group Intern at Samsung R&D Bangladesh
-- 🔬 **Research Interests:** Software Architecture, AI/ML, Automated Testing
-- 💡 **Problem Solver:** 300+ problems solved across competitive programming platforms
-- 🌱 **Learning:** Advanced System Design, DevOps, Machine Learning
+🔬 Currently working on **Automated Testing Tools & Full-Stack Web Applications**  
+🌱 Deepening expertise in **AI/ML, DevOps, and Software Architecture**  
+🎯 2025 Goals: **Contribute to open source, master system design, enhance AI/ML skills**  
+🚀 Open to collaborate on **Open Source Projects & Innovative Web Solutions**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Languages
+### ▼ Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+### ▼ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-009688?style=flat&logo=fastapi&logoColor=white)
+
+### ▼ Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -37,106 +62,112 @@ I am a **Software Engineering undergraduate** at the **Institute of Information 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-### Databases
+### ▼ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
-### AI & Machine Learning
+### ▼ AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 
-### Testing & QA
+### ▼ Testing & Quality Assurance
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat&logo=android&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=flat&logo=jest&logoColor=white)
+![E2E Testing](https://img.shields.io/badge/E2E_Testing-2F3133?style=flat&logo=cypress&logoColor=white)
 
-### DevOps & Tools
+### ▼ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=flat&logo=githubactions&logoColor=white)
+
+### ▼ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-### Samsung R&D Institute Bangladesh
-**Quality Innovation Group Intern** | March 2025 - September 2025
-- Conducted manual and automated testing for Samsung Notes application
-- Resolved critical Voice of Customer (VOC) issues related to data corruption
-- Developed test cases, test plans, and automation scripts for quality assurance
-- Recognized by MD for exceptional performance and innovative contributions
+### 🔹 Samsung R&D Institute Bangladesh
+**Quality Innovation Group Intern** • *March 2025 - September 2025*
+- Conducted manual and automated testing for Samsung Notes application, identifying and resolving critical bugs
+- Resolved Voice of Customer (VOC) issues related to data corruption, improving user satisfaction
+- Developed comprehensive test cases, test plans, and automation scripts for quality assurance
+- Recognized by Managing Director for exceptional performance and innovative problem-solving
 
-### Dhaka University IT Society
-**Trainer** | 2024 - 2025
-- Delivered hands-on training sessions on programming, Microsoft Excel, and PowerPoint
-- Mentored 50+ students in software development best practices
+### 🔹 Dhaka University IT Society
+**Trainer** • *2024 - 2025*
+- Delivered hands-on training sessions on programming, Microsoft Excel, and PowerPoint to 50+ students
+- Mentored students in software development best practices and problem-solving techniques
 
-### IIT Software Engineers' Community
-**Organizing Secretary** | 2024 - 2025
-- Planned and coordinated technical events and workshops
-- Fostered collaboration and knowledge sharing among 200+ community members
+### 🔹 IIT Software Engineers' Community
+**Organizing Secretary** • *2024 - 2025*
+- Planned and coordinated technical events, workshops, and hackathons for 200+ community members
+- Fostered collaboration and knowledge sharing through impactful community initiatives
 
-### Bangladesh Mathematics Olympiad
-**Academic Team Member** | 2023 - Present
-- Created and reviewed olympiad problems for regional and national competitions
-- Led team coordination and event organization
+### 🔹 Bangladesh Mathematics Olympiad
+**Academic Team Member** • *2023 - Present*
+- Created and reviewed olympiad problems for regional and national mathematics competitions
+- Led team coordination and organized competitive programming events
+
+### 🔹 Big Bang Academy
+**Mathematics Instructor** • *2023 - 2024*
+- Taught mathematics to high school students, focusing on problem-solving and critical thinking
+- Provided real-time guidance and mentorship to improve student performance
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Professional Accountants' Society UK](https://www.accountantssociety.org/)
-**Tech Stack:** Next.js, Node.js, TypeScript, MongoDB, AWS, Vercel
-- Developed and deployed the official website for a UK-based professional organization
-- Implemented responsive UI with secure admin dashboard for content management
-- Integrated dynamic event and news management system with real-time updates
+### 🌐 [Professional Accountants' Society UK](https://www.accountantssociety.org/)
+**Tech Stack:** Next.js • Node.js • TypeScript • MongoDB • AWS • Vercel
 
-### DroidInspect: AutoUI Inspector
-**Tech Stack:** Python, Java, JavaScript, Android SDK, ADB, uiautomator
-- Built automated UI testing tool for Android applications
-- Implemented state exploration algorithm to generate comprehensive test inputs
-- Reduced manual testing effort by 40% through intelligent automation
+Built and deployed the official website for a UK-based professional accounting organization. Implemented responsive UI with secure admin dashboard for dynamic event and news management. Integrated real-time content updates and secure authentication system.
 
-### LearnPhysics
-**Tech Stack:** C++, Graphics Libraries (OpenGL)
-- Created interactive physics learning application with real-time visualizations
-- Implemented projectile motion simulations with customizable parameters
-- Designed intuitive UI for students to explore fundamental physics concepts
+### 🤖 DroidInspect: AutoUI Inspector
+**Tech Stack:** Python • Java • JavaScript • Android SDK • ADB • uiautomator • Android Emulator
 
-### Mini Chess AI
-**Tech Stack:** Python, JavaScript, HTML, CSS, AI Algorithms
-- Developed 5×6 chess game with multiple play modes (AI vs AI, AI vs Human, Human vs Human)
-- Implemented minimax algorithm with alpha-beta pruning for intelligent move prediction
-- Created responsive web interface for seamless gameplay experience
+Developed an automated UI testing tool for Android applications that explores app states and generates comprehensive test inputs. Reduced manual testing effort by 40% through intelligent state exploration and automated test case generation.
+
+### 📚 LearnPhysics
+**Tech Stack:** C++ • Graphics Libraries (OpenGL)
+
+Created an interactive physics learning application with real-time visualizations of fundamental physics formulas. Implemented projectile motion simulations with customizable parameters to enhance student understanding through visual learning.
+
+### ♟️ Mini Chess AI
+**Tech Stack:** Python • JavaScript • HTML • CSS • AI Algorithms
+
+Developed a 5×6 chessboard game featuring multiple play modes (AI vs AI, AI vs Human, Human vs Human). Implemented minimax algorithm with alpha-beta pruning for intelligent move prediction and responsive web interface.
+
+### 🛒 Shopify Theme Development
+**Tech Stack:** HTML • CSS • JavaScript • Liquid
+
+Developed custom Shopify themes for e-commerce platforms. Modified and customized existing themes to meet client requirements, improving user experience and conversion rates.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Recognition
 
 - 🥇 **Top 10** - DU IIT ITverse 2023 Project Competition (110+ participants)
-- 🎖️ **Recognition Award** - Gift from MD of Samsung R&D Institute Bangladesh
-- ⚡ **VOC Resolution** - Acknowledged for resolving critical Samsung Notes issues
-- 💻 **300+ Problems Solved** - LeetCode, Codeforces, and other competitive platforms
+- 🎖️ **Recognition Award** - Gift from MD of Samsung R&D Institute Bangladesh for exceptional performance
+- ⚡ **VOC Resolution Expert** - Recognized for resolving critical Samsung Notes data corruption issues
+- 💻 **300+ Problems Solved** - Active problem solver on LeetCode, Codeforces, and competitive programming platforms
 - 🏅 **Honorable Mention** - ICPC Asia Dhaka Regional Online Preliminary Contest 2022
 
 ---
@@ -145,27 +176,41 @@ I am a **Software Engineering undergraduate** at the **Institute of Information 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasir-1310&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nasir-1310&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasir-1310&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasir-1310&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nasir-1310&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasir-1310&theme=radical&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nasir-1310&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 📫 Contact
+## 🎓 Education
+
+**University of Dhaka**  
+B.Sc. in Software Engineering (Institute of Information Technology)  
+*2022 - Present* • CGPA: 3.60/4.00
+
+**Netrakona Govt. College**  
+Higher Secondary School Certificate (HSC)  
+*2018 - 2020* • GPA: 5.00/5.00
+
+---
+
+## 📫 Get In Touch
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nasir-uddin)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsse1310@iit.du.ac.bd)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasir-1310)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/nasir-uddin)
 
-**Location:** Dhaka, Bangladesh  
-**Phone:** +880 1955-612456  
-**Email:** bsse1310@iit.du.ac.bd
+**📍 Location:** Dhaka, Bangladesh  
+**📞 Phone:** +880 1955-612456  
+**✉️ Email:** bsse1310@iit.du.ac.bd
 
 </div>
 
@@ -173,8 +218,10 @@ I am a **Software Engineering undergraduate** at the **Institute of Information 
 
 <div align="center">
 
-### ⚡ "Clean code always looks like it was written by someone who cares."
+### 💡 "First, solve the problem. Then, write the code." - John Johnson
 
-*Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities.*
+![Profile Views](https://komarev.com/ghpvc/?username=nasir-1310&color=0e75b6&style=flat)
+
+*Open to opportunities in Software Engineering, Full-Stack Development, and Quality Assurance roles*
 
 </div>
