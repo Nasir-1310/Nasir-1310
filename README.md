@@ -2,7 +2,9 @@
 
 <div align="center">
 
-**Software Engineering Undergraduate at University of Dhaka (IIT) | Building Scalable Solutions**
+**Full-Stack Developer | AI/ML Enthusiast | Software Engineering Researcher | Quality Assurance Specialist**
+
+*Software Engineering Undergraduate at University of Dhaka (IIT)*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nasir-1310&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/nasir-1310)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nasir-uddin)
@@ -15,22 +17,15 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const nasir = {
-  education: "B.Sc. in Software Engineering @ University of Dhaka",
-  currentRole: "QA Intern @ Samsung R&D Institute Bangladesh",
-  cgpa: "3.60/4.00",
-  location: "Dhaka, Bangladesh",
-  interests: ["Web Development", "AI/ML", "Software Architecture", "Quality Assurance"],
-  currentFocus: ["Building scalable web applications", "Automated testing", "Clean code practices"],
-  problemsSolved: "300+ across LeetCode, Codeforces & competitive platforms"
-};
-```
+I am a passionate **Software Engineering undergraduate** at the **Institute of Information Technology, University of Dhaka**, specializing in full-stack development, artificial intelligence, and quality assurance. Currently interning at **Samsung R&D Institute Bangladesh**, I focus on building scalable applications, automating testing processes, and conducting research in software engineering.
 
-🔬 Currently working on **Automated Testing Tools & Full-Stack Web Applications**  
-🌱 Deepening expertise in **AI/ML, DevOps, and Software Architecture**  
-🎯 2025 Goals: **Contribute to open source, master system design, enhance AI/ML skills**  
-🚀 Open to collaborate on **Open Source Projects & Innovative Web Solutions**
+**🎓 Education:** B.Sc. in Software Engineering • CGPA: 3.60/4.00  
+**💼 Current Role:** Quality Innovation Group Intern @ Samsung R&D Bangladesh  
+**🔬 Interests:** Web Development, AI/ML, Software Architecture, Quality Assurance  
+**💻 Problem Solver:** 300+ problems solved across LeetCode, Codeforces & competitive platforms  
+**🌱 Currently Learning:** Advanced System Design, DevOps, Machine Learning  
+**🎯 2025 Goals:** Contribute to open source, master system design, enhance AI/ML research  
+**🚀 Open to:** Collaboration on Open Source Projects & Innovative Solutions
 
 ---
 
@@ -218,10 +213,12 @@ Higher Secondary School Certificate (HSC)
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 ### 💡 "First, solve the problem. Then, write the code." - John Johnson
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nasir-1310&color=0e75b6&style=flat)
 
-*Open to opportunities in Software Engineering, Full-Stack Development, and Quality Assurance roles*
+*Open to opportunities in Software Engineering, Full-Stack Development, AI/ML, and Quality Assurance roles*
 
 </div>
