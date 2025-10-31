@@ -1,11 +1,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nasir+Uddin;Software+Engineer;Full-Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <em>Software Engineering Undergraduate at University of Dhaka (IIT) | Building Scalable Solutions</em>
 </p>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=nasir-1310&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /> 
   <a href="https://github.com/nasir-1310?tab=followers">
@@ -16,12 +14,8 @@
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-```typescript
-const nasir = {
+👨‍💻 About Me
+typescriptconst nasir = {
   education: "B.Sc. in Software Engineering @ University of Dhaka",
   currentRole: "QA Intern @ Samsung R&D Institute Bangladesh",
   cgpa: "3.60/4.00",
@@ -30,18 +24,15 @@ const nasir = {
   currentFocus: ["Building scalable web applications", "Automated testing", "Clean code practices"],
   problemsSolved: "300+ across LeetCode, Codeforces & other platforms"
 };
-```
 
-- 🔭 Currently working on **Automated Testing Tools & Full-Stack Web Applications**
-- 🌱 Deepening expertise in **AI/ML, DevOps, and Software Architecture**
-- 👯 Open to collaborate on **Open Source Projects & Innovative Web Solutions**
-- 🎯 2025 Goals: **Contribute more to open source, master system design, enhance AI/ML skills**
-- 💡 Fun fact: **I love solving complex problems and teaching programming!**
+🔭 Currently working on Automated Testing Tools & Full-Stack Web Applications
+🌱 Deepening expertise in AI/ML, DevOps, and Software Architecture
+👯 Open to collaborate on Open Source Projects & Innovative Web Solutions
+🎯 2025 Goals: Contribute more to open source, master system design, enhance AI/ML skills
+💡 Fun fact: I love solving complex problems and teaching programming!
 
----
 
-## 🛠️ Tech Stack
-
+🛠️ Tech Stack
 <details open>
 <summary><b>Frontend Development</b></summary>
 <br>
@@ -56,7 +47,6 @@ const nasir = {
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 </details>
-
 <details open>
 <summary><b>Backend Development</b></summary>
 <br>
@@ -68,7 +58,6 @@ const nasir = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 </details>
-
 <details open>
 <summary><b>Programming Languages</b></summary>
 <br>
@@ -81,7 +70,6 @@ const nasir = {
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 </details>
-
 <details open>
 <summary><b>Databases</b></summary>
 <br>
@@ -92,7 +80,6 @@ const nasir = {
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 </details>
-
 <details open>
 <summary><b>AI & Machine Learning</b></summary>
 <br>
@@ -104,7 +91,6 @@ const nasir = {
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 </p>
 </details>
-
 <details open>
 <summary><b>Testing & Quality Assurance</b></summary>
 <br>
@@ -114,7 +100,6 @@ const nasir = {
   <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK"/>
 </p>
 </details>
-
 <details open>
 <summary><b>DevOps & Cloud</b></summary>
 <br>
@@ -127,7 +112,6 @@ const nasir = {
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
 </p>
 </details>
-
 <details open>
 <summary><b>Tools & Platforms</b></summary>
 <br>
@@ -140,10 +124,7 @@ const nasir = {
 </p>
 </details>
 
----
-
-## 🚀 Featured Projects
-
+🚀 Featured Projects
 <table>
   <tr>
     <td width="50%">
@@ -191,58 +172,51 @@ const nasir = {
   </tr>
 </table>
 
----
-
-## 📊 GitHub Analytics
-
+📊 GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nasir-1310&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasir-1310&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasir-1310&theme=tokyonight" alt="Streak Stats"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasir-1310&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
----
+🏆 Achievements & Recognition
 
-## 🏆 Achievements & Recognition
+🥇 Top 10 in DU IIT ITverse 2023 Project Competition (110+ participants)
+🎖️ Gift from MD of Samsung R&D Institute Bangladesh for exceptional performance
+⚡ Recognized for resolving Voice of Customer (VOC) issues in Samsung Notes
+💻 300+ Problems solved across Codeforces, LeetCode & competitive programming platforms
+🏅 Honorable Mention - ICPC Asia Dhaka Regional Online Preliminary Contest 2022
 
-- 🥇 **Top 10** in DU IIT ITverse 2023 Project Competition (110+ participants)
-- 🎖️ **Gift from MD** of Samsung R&D Institute Bangladesh for exceptional performance
-- ⚡ **Recognized** for resolving Voice of Customer (VOC) issues in Samsung Notes
-- 💻 **300+ Problems** solved across Codeforces, LeetCode & competitive programming platforms
-- 🏅 **Honorable Mention** - ICPC Asia Dhaka Regional Online Preliminary Contest 2022
 
----
+💼 Professional Experience
+🔹 Samsung R&D Institute Bangladesh
+Quality Innovation Group Intern | Mar 2025 - Sep 2025
 
-## 💼 Professional Experience
+Idea & Innovation, SQA, Automation & Manual Testing, EAA, Test Case & Test Plan Development
+Resolved critical VOC issues in Samsung Notes application
 
-### 🔹 Samsung R&D Institute Bangladesh
-**Quality Innovation Group Intern** | Mar 2025 - Sep 2025
-- Idea & Innovation, SQA, Automation & Manual Testing, EAA, Test Case & Test Plan Development
-- Resolved critical VOC issues in Samsung Notes application
+🔹 Dhaka University IT Society
+Trainer | 2024 - 2025
 
-### 🔹 Dhaka University IT Society
-**Trainer** | 2024 - 2025
-- Conducted hands-on training sessions on programming, Microsoft Excel, and PowerPoint for DU students
+Conducted hands-on training sessions on programming, Microsoft Excel, and PowerPoint for DU students
 
-### 🔹 IIT Software Engineers' Community
-**Organizing Secretary** | 2024 - 2025
-- Fostered collaboration and knowledge sharing by planning and coordinating impactful tech events
+🔹 IIT Software Engineers' Community
+Organizing Secretary | 2024 - 2025
 
-### 🔹 Bangladesh Mathematics Olympiad
-**Academic Team Member** | 2023 - Present
-- Problem setter, problem solver, team leader, and organizer for olympiad events
+Fostered collaboration and knowledge sharing by planning and coordinating impactful tech events
 
----
+🔹 Bangladesh Mathematics Olympiad
+Academic Team Member | 2023 - Present
 
-## 📫 Connect With Me
+Problem setter, problem solver, team leader, and organizer for olympiad events
 
+
+📫 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/nasir-uddin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -261,16 +235,12 @@ const nasir = {
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
 <p align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nasir-1310&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
