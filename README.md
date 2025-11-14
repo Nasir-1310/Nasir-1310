@@ -98,73 +98,14 @@ I am a passionate **Software Engineering undergraduate** at the **Institute of I
 
 ---
 
-## 💼 Professional Experience
 
-### 🔹 Samsung R&D Institute Bangladesh
-**Quality Innovation Group Intern** • *March 2025 - September 2025*
-- Conducted manual and automated testing for Samsung Notes application, identifying and resolving critical bugs
-- Resolved Voice of Customer (VOC) issues related to data corruption, improving user satisfaction
-- Developed comprehensive test cases, test plans, and automation scripts for quality assurance
-- Recognized by Managing Director for exceptional performance and innovative problem-solving
-
-### 🔹 Dhaka University IT Society
-**Trainer** • *2024 - 2025*
-- Delivered hands-on training sessions on programming, Microsoft Excel, and PowerPoint to 50+ students
-- Mentored students in software development best practices and problem-solving techniques
-
-### 🔹 IIT Software Engineers' Community
-**Organizing Secretary** • *2024 - 2025*
-- Planned and coordinated technical events, workshops, and hackathons for 200+ community members
-- Fostered collaboration and knowledge sharing through impactful community initiatives
-
-### 🔹 Bangladesh Mathematics Olympiad
-**Academic Team Member** • *2023 - Present*
-- Created and reviewed olympiad problems for regional and national mathematics competitions
-- Led team coordination and organized competitive programming events
-
-### 🔹 Big Bang Academy
-**Mathematics Instructor** • *2023 - 2024*
-- Taught mathematics to high school students, focusing on problem-solving and critical thinking
-- Provided real-time guidance and mentorship to improve student performance
-
----
-
-## 🚀 Featured Projects
+## 🚀 Industry Projects
 
 ### 🌐 [Professional Accountants' Society UK](https://www.accountantssociety.org/)
 **Tech Stack:** Next.js • Node.js • TypeScript • MongoDB • AWS • Vercel
 
 Built and deployed the official website for a UK-based professional accounting organization. Implemented responsive UI with secure admin dashboard for dynamic event and news management. Integrated real-time content updates and secure authentication system.
 
-### 🤖 DroidInspect: AutoUI Inspector
-**Tech Stack:** Python • Java • JavaScript • Android SDK • ADB • uiautomator • Android Emulator
-
-Developed an automated UI testing tool for Android applications that explores app states and generates comprehensive test inputs. Reduced manual testing effort by 40% through intelligent state exploration and automated test case generation.
-
-### 📚 LearnPhysics
-**Tech Stack:** C++ • Graphics Libraries (OpenGL)
-
-Created an interactive physics learning application with real-time visualizations of fundamental physics formulas. Implemented projectile motion simulations with customizable parameters to enhance student understanding through visual learning.
-
-### ♟️ Mini Chess AI
-**Tech Stack:** Python • JavaScript • HTML • CSS • AI Algorithms
-
-Developed a 5×6 chessboard game featuring multiple play modes (AI vs AI, AI vs Human, Human vs Human). Implemented minimax algorithm with alpha-beta pruning for intelligent move prediction and responsive web interface.
-
-### 🛒 Shopify Theme Development
-**Tech Stack:** HTML • CSS • JavaScript • Liquid
-
-Developed custom Shopify themes for e-commerce platforms. Modified and customized existing themes to meet client requirements, improving user experience and conversion rates.
-
----
-
-## 🏆 Achievements & Recognition
-
-- 🥇 **Top 10** - DU IIT ITverse 2023 Project Competition (110+ participants)
-- 🎖️ **Recognition Award** - Gift from MD of Samsung R&D Institute Bangladesh for exceptional performance
-- ⚡ **VOC Resolution Expert** - Recognized for resolving critical Samsung Notes data corruption issues
-- 💻 **300+ Problems Solved** - Active problem solver on LeetCode, Codeforces, and competitive programming platforms
-- 🏅 **Honorable Mention** - ICPC Asia Dhaka Regional Online Preliminary Contest 2022
 
 ---
 
