@@ -128,11 +128,11 @@ Built and deployed the official website for a UK-based professional accounting o
 
 **University of Dhaka**  
 B.Sc. in Software Engineering (Institute of Information Technology)  
-*2022 - Present* • CGPA: 3.60/4.00
+*2022 - Present* 
 
 **Netrakona Govt. College**  
 Higher Secondary School Certificate (HSC)  
-*2018 - 2020* • GPA: 5.00/5.00
+*2018 - 2020* 
 
 ---
 
